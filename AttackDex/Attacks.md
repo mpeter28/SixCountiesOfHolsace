@@ -165,6 +165,13 @@
 * Accuracy 12
 * Concentration - Target goes to sleep.
 
+## Imprison ##
+
+* Advanced
+* Bonus
+* Utility
+* Any opposing Poke'mon in line of sight can not use attacks that you have equiped.
+
 ## Leer ##
 
 * Basic
