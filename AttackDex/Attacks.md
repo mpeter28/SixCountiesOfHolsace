@@ -7,10 +7,21 @@
 * Utility
 * Take an extra full movement.
 
+## Astonish ##
+
+* Basic
+* Standard
+* Melee
+* Physical
+* Ghost
+* Accuracy 20
+* 3 Damage Dice
+* 30% flinch chance
+
 ## Barrier ##
 
 * Advanced
-* Full Turn
+* Standard + Move
 * Utility
 * Concentration - Place a sixteen hex-edge, non cyclic wall on the field. The wall blocks movement and ranged attacks.
 
@@ -38,7 +49,7 @@
 ## Confuse Ray ##
 
 * Advanced
-* Full Turn
+* Standard + Move
 * Ranged
 * Ghost
 * Accuracy 20
@@ -72,13 +83,13 @@
 ## Ember ##
 
 * Basic
-* Full Turn
+* Standard + Move
 * Ranged
 * Special
 * Fire
 * Accuracy 20
 * 3 Damage Dice
-* 105 burn chance to target
+* 10% burn chance to target
 
 ## Faint Attack ##
 
@@ -101,6 +112,13 @@
 * 3 Damage Dice
 * React to a melee attack agains you. Causes flinching.
 
+## Fake Tears ##
+
+* Advanced
+* Standard
+* Utility
+* Concentration - all enemy poke'mon in line of sight have reduced special defense
+
 ## Flame Wheel ##
 
 * Basic
@@ -111,10 +129,21 @@
 * Accuracy 20
 * 4 Damage Dice
 
+## Flamethrower ##
+
+* Advanced
+* Standard + Move
+* Ranged
+* Special
+* Fire
+* Accuracy 20
+* 6 Damage Dice
+* 10% burn chance to target
+
 ## Focus Energy ##
 
 * Advanced
-* Full Turn
+* Standard + Move
 * Utility
 * Concentration - All your attacks that hit count as critical hits.
 
@@ -141,6 +170,13 @@
 * Flying
 * Accuracy 20
 * 3 Damage Dice
+
+## Harden ##
+
+* Basic
+* Reaction
+* Utility
+* Increase your defense during an attack, and optionaly as a concentration maintain the defense boost
 
 ## Helping Hand ##
 
@@ -179,6 +215,31 @@
 * Ranged
 * Accuracy 20
 * Concentration - Target has reduced defence.
+
+## Lock On ##
+
+* Advanced
+* Standard
+* Utility
+* Concentration - choose a target in line of sight. All attacks against this target have 20 accuracy
+
+## Metal Claw ##
+
+* Basic
+* Standard
+* Melee
+* Physical
+* Steel
+* Accuracy 19
+* 4 Damage Dice
+
+## Metal Sound ##
+
+* Basic
+* Standard
+* Ranged
+* Accuracy 17
+* Concentration - Target has reduced special defense.
 
 ## Nightshade ##
 
@@ -228,10 +289,21 @@
 * 3 Damage Dice
 * Quick Attack does not provoke reactions.
 
+## Rapid Spin ##
+
+* Basic
+* Standard
+* Melee
+* Physical
+* Normal
+* Accuracy 20
+* 2 Damage Dice
+* Removes spikes and smoke adjacent to user
+
 ## Roar ##
 
 * Advanced
-* Full Turn
+* Standard + Move
 * Utility
 * All enemy Pokemon in line of sight are pushed four hexes away in a straight line
 
@@ -264,7 +336,7 @@
 ## Self Destruct ##
 
 * Basic
-* Full Turn
+* Standard + Move + Bonus + Reaction
 * Ranged
 * Physical
 * Normal
@@ -291,10 +363,27 @@
 ## Spider Web ##
 
 * Advanced
-* Full Turn
+* Standard + Move
 * Ranged
 * Accuracy 20
 * Target speed drops to 0.
+
+## Sonic Boom ##
+
+* Basic
+* Standard
+* Ranged
+* Normal
+* Accuracy 20
+* Does a flat 2 damage.
+
+## Super Sonic ##
+
+* Advanced
+* Standard + Move
+* Ranged
+* Accuracy 11
+* Concenration - target is confused
 
 ## Sweet Scent ##
 
@@ -302,6 +391,16 @@
 * Reaction
 * Utility
 * React to a target in line of sight who uses evasion in response to an ally's attack. Target has their evasion increased to 18.
+
+## Swift ##
+
+* Advanced
+* Standard
+* Range
+* Special
+* Normal
+* 4 Damage Dice
+* Swift auto succeeds on accuracy rolls and does not allow for any evasion
 
 ## Swords Dance ##
 
@@ -339,14 +438,14 @@
 ## Teleport ##
 
 * Advanced
-* Full Turn
+* Standard + Move
 * Utility
 * Move to anywhere within 8 hexes.
 
 ## Thunderbolt ##
 
 * Advanced
-* Full Turn
+* Standard + Move
 * Ranged
 * Special
 * Electric
@@ -354,10 +453,30 @@
 * 6 Damage Dice
 * 10% paralysis chance
 
+## Thundershock ##
+
+* Basic
+* Standard
+* Ranged
+* Special
+* Electric
+* Accuracy 20
+* 3 Damage Dice
+* 10% paralysis chance
+
+## Thunderwave ##
+
+* Advanced
+* Standard + Move
+* Ranged
+* Electric
+* Accuracy 20
+* Paralysis
+
 ## Uproar ##
 
 * Basic
-* Full Turn
+* Standard + Move
 * Ranged
 * Special
 * Normal
@@ -368,7 +487,7 @@
 ## Will-O-Wisp ##
 
 * Advanced
-* Full Turn
+* Standard + Move
 * Ranged
 * Fire
 * Accuracy 15
